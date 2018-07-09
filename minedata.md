@@ -11,6 +11,9 @@
  ./tc-copy --bounding-pyramid 12/3374/1568:+24/+24 tiles.minedata_com ./data/12.mbtiles 
  ./tc-copy --bounding-pyramid 13/6748/3136:+48/+48 tiles.minedata_com ./data/13.mbtiles 
  ./tc-copy --bounding-pyramid 14/13496/6272:+96/+96 tiles.minedata_com ./data/14.mbtiles
+ ./tc-copy --bounding-pyramid 15/26992/12544:+192/+192 tiles.minedata_com ./data/15.mbtiles
+ ./tc-copy --bounding-pyramid 16/53984/24088:+384/+384 tiles.minedata_com ./data/16.mbtiles
+ ./tc-copy --bounding-pyramid 17/107968/48176:+768/+768 tiles.minedata_com ./data/17.mbtiles
 ```
 
 * bounding-pyramid 

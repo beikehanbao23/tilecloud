@@ -30,6 +30,20 @@
 
 http://datahive.minedata.cn/data/ResidentialPolygon/14/13528/6250?token=449ba822788c46bea9f90dfba48e5269&solu=4024
 
+http://datahive.minedata.cn/data/Buildingmore/14/13525/6253?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
 http://datahive.minedata.cn/data/Worldcountries/6/51/24?token=449ba822788c46bea9f90dfba48e5269&solu=4024
 
 http://datahive.minedata.cn/data/Greenface/7/106/47?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/data/Waterface/7/106/47?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/data/Adminbound/7/104/48?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/data/Waterline/6/51/24?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/mergeddata/Villtown,Road,Railway,Ptline,Adminflag,Poi,Annotation,Worldannotation/15/27052/12507?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/data/Ptstop/15/27052/12507?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/data/Zlevel/15/27052/12506?token=449ba822788c46bea9f90dfba48e5269&solu=4024

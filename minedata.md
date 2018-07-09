@@ -25,3 +25,11 @@
 13/6748/3136:+48/+48
 14/13496/6272:+96/+96
 ```
+
+* Tiles Url
+
+http://datahive.minedata.cn/data/ResidentialPolygon/14/13528/6250?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/data/Worldcountries/6/51/24?token=449ba822788c46bea9f90dfba48e5269&solu=4024
+
+http://datahive.minedata.cn/data/Greenface/7/106/47?token=449ba822788c46bea9f90dfba48e5269&solu=4024
